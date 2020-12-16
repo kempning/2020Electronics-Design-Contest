@@ -1,0 +1,4 @@
+".\Out Hex\282838p.obj",
+".\Out Hex\TFT.obj" 
+TO ".\Out Hex\SPI" 
+NOPRINT RAMSIZE(256) 
